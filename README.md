@@ -82,12 +82,12 @@ O compartilhamento de dados do usuário ocorre apenas com os dados referentes a 
 
 Os dados do perfil do usuário são compartilhados publicamente em sistemas de busca e dentro da plataforma, sendo permitido ao usuário modificar tal configuração para que seu perfil não apareça nos resultados de busca de tais ferramentas.
 
-SEÇÃO 6 - OS DADOS PESSOAIS ARMAZENADOS SERÃO TRANSFERIDOS A TERCEIROS?
+SEÇÃO 7 - OS DADOS PESSOAIS ARMAZENADOS SERÃO TRANSFERIDOS A TERCEIROS?
 
 Os dados pessoais NÃO podem ser compartilhados a terceiros!
 
 
-SEÇÃO 7 - CONSENTIMENTO
+SEÇÃO 8 - CONSENTIMENTO
 
 Ao utilizar os serviços e fornecer as informações pessoais na plataforma, o usuário está consentindo com a presente Política de Privacidade.
 
